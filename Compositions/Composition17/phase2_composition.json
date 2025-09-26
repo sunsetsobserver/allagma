@@ -1,0 +1,8098 @@
+{
+  "vocabulary_names_used": [
+    "bar_melody_arc_p4_octave1757107728",
+    "bar_chordburst_chordcycle_p5_p4_circular1757107734",
+    "bar_melodychordburst_arc_p5_octave_circular_pianorange17571077481757107743",
+    "bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752",
+    "bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758",
+    "bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764",
+    "bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770",
+    "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776"
+  ],
+  "placements": [
+    {
+      "run_id": 0,
+      "start_time": 0
+    },
+    {
+      "run_id": 1,
+      "start_time": 26
+    },
+    {
+      "run_id": 2,
+      "start_time": 57
+    },
+    {
+      "run_id": 3,
+      "start_time": 57
+    },
+    {
+      "run_id": 4,
+      "start_time": 73
+    },
+    {
+      "run_id": 5,
+      "start_time": 76
+    },
+    {
+      "run_id": 6,
+      "start_time": 83
+    },
+    {
+      "run_id": 7,
+      "start_time": 90
+    },
+    {
+      "run_id": 8,
+      "start_time": 94
+    },
+    {
+      "run_id": 9,
+      "start_time": 97
+    },
+    {
+      "run_id": 10,
+      "start_time": 111
+    },
+    {
+      "run_id": 11,
+      "start_time": 121
+    },
+    {
+      "run_id": 12,
+      "start_time": 128
+    },
+    {
+      "run_id": 13,
+      "start_time": 136
+    },
+    {
+      "run_id": 14,
+      "start_time": 144
+    },
+    {
+      "run_id": 15,
+      "start_time": 157
+    },
+    {
+      "run_id": 16,
+      "start_time": 162
+    },
+    {
+      "run_id": 17,
+      "start_time": 189
+    },
+    {
+      "run_id": 18,
+      "start_time": 210
+    },
+    {
+      "run_id": 19,
+      "start_time": 237
+    },
+    {
+      "run_id": 20,
+      "start_time": 246
+    },
+    {
+      "run_id": 21,
+      "start_time": 261
+    },
+    {
+      "run_id": 22,
+      "start_time": 270
+    },
+    {
+      "run_id": 23,
+      "start_time": 276
+    },
+    {
+      "run_id": 24,
+      "start_time": 276
+    },
+    {
+      "run_id": 25,
+      "start_time": 292
+    },
+    {
+      "run_id": 26,
+      "start_time": 308
+    },
+    {
+      "run_id": 27,
+      "start_time": 316
+    },
+    {
+      "run_id": 28,
+      "start_time": 332
+    },
+    {
+      "run_id": 29,
+      "start_time": 348
+    },
+    {
+      "run_id": 30,
+      "start_time": 360
+    },
+    {
+      "run_id": 31,
+      "start_time": 374
+    },
+    {
+      "run_id": 32,
+      "start_time": 396
+    },
+    {
+      "run_id": 33,
+      "start_time": 407
+    },
+    {
+      "run_id": 34,
+      "start_time": 428
+    },
+    {
+      "run_id": 35,
+      "start_time": 438
+    },
+    {
+      "run_id": 36,
+      "start_time": 460
+    },
+    {
+      "run_id": 37,
+      "start_time": 472
+    },
+    {
+      "run_id": 38,
+      "start_time": 479
+    },
+    {
+      "run_id": 39,
+      "start_time": 483
+    },
+    {
+      "run_id": 40,
+      "start_time": 489
+    },
+    {
+      "run_id": 41,
+      "start_time": 493
+    },
+    {
+      "run_id": 42,
+      "start_time": 495
+    },
+    {
+      "run_id": 43,
+      "start_time": 520
+    },
+    {
+      "run_id": 44,
+      "start_time": 526
+    },
+    {
+      "run_id": 45,
+      "start_time": 536
+    },
+    {
+      "run_id": 46,
+      "start_time": 548
+    },
+    {
+      "run_id": 47,
+      "start_time": 573
+    },
+    {
+      "run_id": 48,
+      "start_time": 592
+    },
+    {
+      "run_id": 49,
+      "start_time": 616
+    },
+    {
+      "run_id": 50,
+      "start_time": 624
+    },
+    {
+      "run_id": 51,
+      "start_time": 630
+    },
+    {
+      "run_id": 52,
+      "start_time": 649
+    },
+    {
+      "run_id": 53,
+      "start_time": 667
+    },
+    {
+      "run_id": 54,
+      "start_time": 684
+    },
+    {
+      "run_id": 55,
+      "start_time": 694
+    },
+    {
+      "run_id": 56,
+      "start_time": 699
+    },
+    {
+      "run_id": 57,
+      "start_time": 701
+    },
+    {
+      "run_id": 58,
+      "start_time": 707
+    },
+    {
+      "run_id": 59,
+      "start_time": 709
+    },
+    {
+      "run_id": 60,
+      "start_time": 734
+    },
+    {
+      "run_id": 61,
+      "start_time": 751
+    },
+    {
+      "run_id": 62,
+      "start_time": 774
+    },
+    {
+      "run_id": 63,
+      "start_time": 799
+    }
+  ],
+  "runs_time_shifted": [
+    {
+      "run_id": 0,
+      "pt_name": "bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764",
+      "N": 13,
+      "start_time": 0,
+      "samples": [
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/pitch",
+          "data": [
+            53,
+            55,
+            60,
+            58,
+            59,
+            66,
+            59,
+            61,
+            60,
+            60,
+            64,
+            60,
+            61
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/time",
+          "data": [
+            0,
+            2,
+            3,
+            5,
+            8,
+            9,
+            11,
+            13,
+            14,
+            16,
+            19,
+            20,
+            22
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/duration",
+          "data": [
+            2,
+            3,
+            3,
+            5,
+            4,
+            4,
+            3,
+            5,
+            6,
+            6,
+            8,
+            7,
+            7
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/velocity",
+          "data": [
+            51,
+            53,
+            54,
+            54,
+            52,
+            54,
+            53,
+            54,
+            56,
+            57,
+            57,
+            55,
+            57
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 1,
+      "pt_name": "bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764",
+      "N": 17,
+      "start_time": 26,
+      "samples": [
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/pitch",
+          "data": [
+            34,
+            36,
+            41,
+            39,
+            40,
+            47,
+            40,
+            42,
+            41,
+            41,
+            45,
+            41,
+            42,
+            44,
+            49,
+            47,
+            48
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/time",
+          "data": [
+            26,
+            28,
+            29,
+            31,
+            34,
+            35,
+            37,
+            39,
+            40,
+            42,
+            45,
+            46,
+            48,
+            50,
+            51,
+            53,
+            56
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/duration",
+          "data": [
+            16,
+            17,
+            17,
+            19,
+            18,
+            18,
+            17,
+            19,
+            20,
+            20,
+            22,
+            21,
+            21,
+            20,
+            22,
+            23,
+            23
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/velocity",
+          "data": [
+            57,
+            59,
+            60,
+            60,
+            58,
+            60,
+            59,
+            60,
+            62,
+            63,
+            63,
+            61,
+            63,
+            62,
+            63,
+            65,
+            66
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 2,
+      "pt_name": "bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770",
+      "N": 3,
+      "start_time": 57,
+      "samples": [
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/pitch",
+          "data": [
+            59,
+            59,
+            64
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/time",
+          "data": [
+            57,
+            57,
+            57
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/duration",
+          "data": [
+            2,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/velocity",
+          "data": [
+            46,
+            50,
+            50
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/numerator",
+          "data": [
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/denominator",
+          "data": [
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 3,
+      "pt_name": "bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752",
+      "N": 13,
+      "start_time": 57,
+      "samples": [
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/pitch",
+          "data": [
+            40,
+            40,
+            45,
+            45,
+            52,
+            45,
+            40,
+            40,
+            44,
+            40,
+            52,
+            40,
+            40
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/time",
+          "data": [
+            57,
+            59,
+            59,
+            59,
+            62,
+            62,
+            62,
+            64,
+            67,
+            69,
+            69,
+            69,
+            72
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/duration",
+          "data": [
+            8,
+            9,
+            9,
+            8,
+            10,
+            10,
+            8,
+            9,
+            10,
+            10,
+            9,
+            11,
+            11
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/velocity",
+          "data": [
+            50,
+            53,
+            53,
+            54,
+            52,
+            54,
+            53,
+            56,
+            56,
+            57,
+            55,
+            57,
+            56
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 4,
+      "pt_name": "bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752",
+      "N": 3,
+      "start_time": 73,
+      "samples": [
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/pitch",
+          "data": [
+            46,
+            46,
+            51
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/time",
+          "data": [
+            73,
+            75,
+            75
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/duration",
+          "data": [
+            2,
+            3,
+            3
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/velocity",
+          "data": [
+            37,
+            40,
+            40
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/numerator",
+          "data": [
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/denominator",
+          "data": [
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 5,
+      "pt_name": "bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758",
+      "N": 15,
+      "start_time": 76,
+      "samples": [
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/pitch",
+          "data": [
+            47,
+            47,
+            54,
+            47,
+            47,
+            52,
+            47,
+            59,
+            47,
+            47,
+            54,
+            47,
+            47,
+            52,
+            47
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/time",
+          "data": [
+            76,
+            76,
+            76,
+            76,
+            77,
+            77,
+            77,
+            77,
+            78,
+            78,
+            78,
+            78,
+            79,
+            79,
+            79
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/duration",
+          "data": [
+            4,
+            6,
+            6,
+            5,
+            5,
+            6,
+            4,
+            6,
+            6,
+            5,
+            5,
+            6,
+            4,
+            6,
+            6
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/velocity",
+          "data": [
+            43,
+            46,
+            46,
+            44,
+            45,
+            48,
+            48,
+            46,
+            47,
+            50,
+            50,
+            48,
+            49,
+            52,
+            52
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 6,
+      "pt_name": "bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758",
+      "N": 25,
+      "start_time": 83,
+      "samples": [
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/pitch",
+          "data": [
+            41,
+            41,
+            48,
+            41,
+            41,
+            46,
+            41,
+            53,
+            41,
+            41,
+            48,
+            41,
+            41,
+            46,
+            41,
+            53,
+            41,
+            41,
+            48,
+            41,
+            41,
+            46,
+            41,
+            53,
+            41
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/time",
+          "data": [
+            83,
+            83,
+            83,
+            83,
+            84,
+            84,
+            84,
+            84,
+            85,
+            85,
+            85,
+            85,
+            86,
+            86,
+            86,
+            86,
+            87,
+            87,
+            87,
+            87,
+            88,
+            88,
+            88,
+            88,
+            89
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/duration",
+          "data": [
+            8,
+            10,
+            10,
+            9,
+            9,
+            10,
+            8,
+            10,
+            10,
+            9,
+            9,
+            10,
+            8,
+            10,
+            10,
+            9,
+            9,
+            10,
+            8,
+            10,
+            10,
+            9,
+            9,
+            10,
+            8
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/velocity",
+          "data": [
+            80,
+            83,
+            83,
+            81,
+            82,
+            85,
+            85,
+            83,
+            84,
+            87,
+            87,
+            85,
+            86,
+            89,
+            89,
+            87,
+            88,
+            91,
+            91,
+            89,
+            90,
+            93,
+            93,
+            91,
+            92
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 7,
+      "pt_name": "bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758",
+      "N": 9,
+      "start_time": 90,
+      "samples": [
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/pitch",
+          "data": [
+            67,
+            67,
+            74,
+            67,
+            67,
+            72,
+            67,
+            79,
+            67
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/time",
+          "data": [
+            90,
+            90,
+            90,
+            90,
+            91,
+            91,
+            91,
+            91,
+            92
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/duration",
+          "data": [
+            8,
+            10,
+            10,
+            9,
+            9,
+            10,
+            8,
+            10,
+            10
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/velocity",
+          "data": [
+            63,
+            66,
+            66,
+            64,
+            65,
+            68,
+            68,
+            66,
+            67
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 8,
+      "pt_name": "bar_melody_arc_p4_octave1757107728",
+      "N": 3,
+      "start_time": 94,
+      "samples": [
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/pitch",
+          "data": [
+            32,
+            34,
+            35
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/time",
+          "data": [
+            94,
+            96,
+            97
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/duration",
+          "data": [
+            16,
+            17,
+            17
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/velocity",
+          "data": [
+            36,
+            38,
+            39
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/numerator",
+          "data": [
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/denominator",
+          "data": [
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 9,
+      "pt_name": "bar_chordburst_chordcycle_p5_p4_circular1757107734",
+      "N": 15,
+      "start_time": 97,
+      "samples": [
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/pitch",
+          "data": [
+            58,
+            58,
+            62,
+            65,
+            58,
+            65,
+            65,
+            61,
+            66,
+            61,
+            61,
+            63,
+            61,
+            61,
+            65
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/time",
+          "data": [
+            97,
+            97,
+            97,
+            99,
+            101,
+            101,
+            104,
+            104,
+            105,
+            105,
+            107,
+            107,
+            107,
+            109,
+            111
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/duration",
+          "data": [
+            16,
+            18,
+            18,
+            18,
+            17,
+            18,
+            18,
+            17,
+            18,
+            20,
+            20,
+            20,
+            19,
+            20,
+            20
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/velocity",
+          "data": [
+            49,
+            53,
+            53,
+            51,
+            52,
+            51,
+            53,
+            57,
+            57,
+            55,
+            56,
+            55,
+            57,
+            61,
+            61
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 10,
+      "pt_name": "bar_chordburst_chordcycle_p5_p4_circular1757107734",
+      "N": 11,
+      "start_time": 111,
+      "samples": [
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/pitch",
+          "data": [
+            65,
+            65,
+            69,
+            72,
+            65,
+            72,
+            72,
+            68,
+            73,
+            68,
+            68
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/time",
+          "data": [
+            111,
+            111,
+            111,
+            113,
+            115,
+            115,
+            118,
+            118,
+            119,
+            119,
+            121
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/duration",
+          "data": [
+            16,
+            18,
+            18,
+            18,
+            17,
+            18,
+            18,
+            17,
+            18,
+            20,
+            20
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/velocity",
+          "data": [
+            72,
+            76,
+            76,
+            74,
+            75,
+            74,
+            76,
+            80,
+            80,
+            78,
+            79
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 11,
+      "pt_name": "bar_chordburst_chordcycle_p5_p4_circular1757107734",
+      "N": 8,
+      "start_time": 121,
+      "samples": [
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/pitch",
+          "data": [
+            68,
+            68,
+            72,
+            75,
+            68,
+            75,
+            75,
+            71
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/time",
+          "data": [
+            121,
+            121,
+            121,
+            123,
+            125,
+            125,
+            128,
+            128
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/duration",
+          "data": [
+            1,
+            3,
+            3,
+            3,
+            2,
+            3,
+            3,
+            2
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/velocity",
+          "data": [
+            51,
+            55,
+            55,
+            53,
+            54,
+            53,
+            55,
+            59
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 12,
+      "pt_name": "bar_chordburst_chordcycle_p5_p4_circular1757107734",
+      "N": 8,
+      "start_time": 128,
+      "samples": [
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/pitch",
+          "data": [
+            66,
+            66,
+            70,
+            73,
+            66,
+            73,
+            73,
+            69
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/time",
+          "data": [
+            128,
+            128,
+            128,
+            130,
+            132,
+            132,
+            135,
+            135
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/duration",
+          "data": [
+            8,
+            10,
+            10,
+            10,
+            9,
+            10,
+            10,
+            9
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/velocity",
+          "data": [
+            37,
+            41,
+            41,
+            39,
+            40,
+            39,
+            41,
+            45
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 13,
+      "pt_name": "bar_chordburst_chordcycle_p5_p4_circular1757107734",
+      "N": 8,
+      "start_time": 136,
+      "samples": [
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/pitch",
+          "data": [
+            66,
+            66,
+            70,
+            73,
+            66,
+            73,
+            73,
+            69
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/time",
+          "data": [
+            136,
+            136,
+            136,
+            138,
+            140,
+            140,
+            143,
+            143
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/duration",
+          "data": [
+            1,
+            3,
+            3,
+            3,
+            2,
+            3,
+            3,
+            2
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/velocity",
+          "data": [
+            65,
+            69,
+            69,
+            67,
+            68,
+            67,
+            69,
+            73
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 14,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 13,
+      "start_time": 144,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            79,
+            81,
+            81,
+            86,
+            84,
+            96,
+            84,
+            85,
+            92,
+            85,
+            85,
+            89,
+            85
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            144,
+            146,
+            147,
+            147,
+            147,
+            150,
+            152,
+            153,
+            153,
+            155,
+            156,
+            156,
+            156
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            8,
+            9,
+            9,
+            11,
+            10,
+            10,
+            11,
+            9,
+            10,
+            10,
+            12,
+            11,
+            11
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            53,
+            56,
+            56,
+            57,
+            55,
+            57,
+            56,
+            57,
+            60,
+            60,
+            61,
+            59,
+            61
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 15,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 3,
+      "start_time": 157,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            67,
+            69,
+            69
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            157,
+            159,
+            160
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            2,
+            3,
+            3
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            36,
+            39,
+            39
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 16,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 24,
+      "start_time": 162,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            79,
+            81,
+            81,
+            86,
+            84,
+            96,
+            84,
+            85,
+            92,
+            85,
+            85,
+            89,
+            85,
+            86,
+            88,
+            88,
+            93,
+            91,
+            103,
+            91,
+            92,
+            99,
+            92,
+            92
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            162,
+            164,
+            165,
+            165,
+            165,
+            168,
+            170,
+            171,
+            171,
+            173,
+            174,
+            174,
+            174,
+            177,
+            179,
+            180,
+            180,
+            182,
+            183,
+            183,
+            183,
+            186,
+            188,
+            189
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            16,
+            17,
+            17,
+            19,
+            18,
+            18,
+            19,
+            17,
+            18,
+            18,
+            20,
+            19,
+            19,
+            20,
+            18,
+            19,
+            19,
+            21,
+            20,
+            20,
+            21,
+            19,
+            20,
+            20
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            48,
+            51,
+            51,
+            52,
+            50,
+            52,
+            51,
+            52,
+            55,
+            55,
+            56,
+            54,
+            56,
+            55,
+            56,
+            59,
+            59,
+            60,
+            58,
+            60,
+            59,
+            60,
+            63,
+            63
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 17,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 19,
+      "start_time": 189,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            80,
+            82,
+            82,
+            87,
+            85,
+            97,
+            85,
+            86,
+            93,
+            86,
+            86,
+            90,
+            86,
+            87,
+            89,
+            89,
+            94,
+            92,
+            104
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            189,
+            191,
+            192,
+            192,
+            192,
+            195,
+            197,
+            198,
+            198,
+            200,
+            201,
+            201,
+            201,
+            204,
+            206,
+            207,
+            207,
+            209,
+            210
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            2,
+            3,
+            3,
+            5,
+            4,
+            4,
+            5,
+            3,
+            4,
+            4,
+            6,
+            5,
+            5,
+            6,
+            4,
+            5,
+            5,
+            7,
+            6
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            77,
+            80,
+            80,
+            81,
+            79,
+            81,
+            80,
+            81,
+            84,
+            84,
+            85,
+            83,
+            85,
+            84,
+            85,
+            88,
+            88,
+            89,
+            87
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 18,
+      "pt_name": "bar_melodychordburst_arc_p5_octave_circular_pianorange17571077481757107743",
+      "N": 25,
+      "start_time": 210,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_arc_p5_octave_circular_pianorange17571077481757107743/pitch",
+          "data": [
+            76,
+            78,
+            78,
+            83,
+            78,
+            79,
+            91,
+            79,
+            81,
+            79,
+            86,
+            79,
+            79,
+            80,
+            82,
+            82,
+            87,
+            82,
+            83,
+            95,
+            83,
+            85,
+            83,
+            90,
+            83
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_arc_p5_octave_circular_pianorange17571077481757107743/time",
+          "data": [
+            210,
+            212,
+            213,
+            213,
+            213,
+            216,
+            218,
+            219,
+            219,
+            221,
+            222,
+            222,
+            222,
+            225,
+            227,
+            228,
+            228,
+            230,
+            231,
+            231,
+            231,
+            234,
+            236,
+            237,
+            237
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_arc_p5_octave_circular_pianorange17571077481757107743/duration",
+          "data": [
+            8,
+            9,
+            8,
+            8,
+            10,
+            8,
+            8,
+            9,
+            10,
+            9,
+            9,
+            11,
+            9,
+            9,
+            10,
+            11,
+            10,
+            10,
+            12,
+            10,
+            10,
+            11,
+            12,
+            11,
+            11
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_arc_p5_octave_circular_pianorange17571077481757107743/velocity",
+          "data": [
+            54,
+            57,
+            58,
+            58,
+            56,
+            58,
+            57,
+            60,
+            61,
+            61,
+            59,
+            61,
+            60,
+            63,
+            64,
+            64,
+            62,
+            64,
+            63,
+            66,
+            67,
+            67,
+            65,
+            67,
+            66
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_arc_p5_octave_circular_pianorange17571077481757107743/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_arc_p5_octave_circular_pianorange17571077481757107743/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 19,
+      "pt_name": "bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764",
+      "N": 6,
+      "start_time": 237,
+      "samples": [
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/pitch",
+          "data": [
+            38,
+            40,
+            45,
+            43,
+            44,
+            51
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/time",
+          "data": [
+            237,
+            239,
+            240,
+            242,
+            245,
+            246
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/duration",
+          "data": [
+            2,
+            3,
+            3,
+            5,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/velocity",
+          "data": [
+            52,
+            54,
+            55,
+            55,
+            53,
+            55
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 20,
+      "pt_name": "bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764",
+      "N": 9,
+      "start_time": 246,
+      "samples": [
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/pitch",
+          "data": [
+            55,
+            57,
+            62,
+            60,
+            61,
+            68,
+            61,
+            63,
+            62
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/time",
+          "data": [
+            246,
+            248,
+            249,
+            251,
+            254,
+            255,
+            257,
+            259,
+            260
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/duration",
+          "data": [
+            16,
+            17,
+            17,
+            19,
+            18,
+            18,
+            17,
+            19,
+            20
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/velocity",
+          "data": [
+            55,
+            57,
+            58,
+            58,
+            56,
+            58,
+            57,
+            58,
+            60
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 21,
+      "pt_name": "bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764",
+      "N": 5,
+      "start_time": 261,
+      "samples": [
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/pitch",
+          "data": [
+            35,
+            37,
+            42,
+            40,
+            41
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/time",
+          "data": [
+            261,
+            263,
+            264,
+            266,
+            269
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/duration",
+          "data": [
+            1,
+            2,
+            2,
+            4,
+            3
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/velocity",
+          "data": [
+            73,
+            75,
+            76,
+            76,
+            74
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_arc_p4p5_octave_circular_pianorange17571077801757107764/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 22,
+      "pt_name": "bar_melodychordburst_arc_p5_octave_circular_pianorange17571077481757107743",
+      "N": 6,
+      "start_time": 270,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_arc_p5_octave_circular_pianorange17571077481757107743/pitch",
+          "data": [
+            54,
+            56,
+            56,
+            61,
+            56,
+            57
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_arc_p5_octave_circular_pianorange17571077481757107743/time",
+          "data": [
+            270,
+            272,
+            273,
+            273,
+            273,
+            276
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_arc_p5_octave_circular_pianorange17571077481757107743/duration",
+          "data": [
+            8,
+            9,
+            8,
+            8,
+            10,
+            8
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_arc_p5_octave_circular_pianorange17571077481757107743/velocity",
+          "data": [
+            36,
+            39,
+            40,
+            40,
+            38,
+            40
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_arc_p5_octave_circular_pianorange17571077481757107743/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_arc_p5_octave_circular_pianorange17571077481757107743/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 23,
+      "pt_name": "bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770",
+      "N": 3,
+      "start_time": 276,
+      "samples": [
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/pitch",
+          "data": [
+            50,
+            50,
+            55
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/time",
+          "data": [
+            276,
+            276,
+            276
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/duration",
+          "data": [
+            4,
+            6,
+            6
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/velocity",
+          "data": [
+            75,
+            79,
+            79
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/numerator",
+          "data": [
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/denominator",
+          "data": [
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 24,
+      "pt_name": "bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770",
+      "N": 24,
+      "start_time": 276,
+      "samples": [
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/pitch",
+          "data": [
+            36,
+            36,
+            41,
+            41,
+            48,
+            41,
+            41,
+            45,
+            41,
+            53,
+            41,
+            41,
+            41,
+            46,
+            46,
+            53,
+            46,
+            46,
+            50,
+            46,
+            58,
+            46,
+            46,
+            46
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/time",
+          "data": [
+            276,
+            276,
+            276,
+            278,
+            278,
+            278,
+            281,
+            281,
+            283,
+            283,
+            283,
+            283,
+            285,
+            285,
+            285,
+            288,
+            288,
+            290,
+            290,
+            290,
+            290,
+            292,
+            292,
+            292
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/duration",
+          "data": [
+            2,
+            4,
+            4,
+            4,
+            3,
+            4,
+            4,
+            3,
+            4,
+            6,
+            6,
+            6,
+            5,
+            6,
+            6,
+            5,
+            6,
+            8,
+            8,
+            8,
+            7,
+            8,
+            8,
+            7
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/velocity",
+          "data": [
+            37,
+            41,
+            41,
+            39,
+            40,
+            39,
+            41,
+            45,
+            45,
+            43,
+            44,
+            43,
+            45,
+            49,
+            49,
+            47,
+            48,
+            47,
+            49,
+            53,
+            53,
+            51,
+            52,
+            51
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 25,
+      "pt_name": "bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770",
+      "N": 16,
+      "start_time": 292,
+      "samples": [
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/pitch",
+          "data": [
+            72,
+            72,
+            77,
+            77,
+            84,
+            77,
+            77,
+            81,
+            77,
+            89,
+            77,
+            77,
+            77,
+            82,
+            82,
+            89
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/time",
+          "data": [
+            292,
+            292,
+            292,
+            294,
+            294,
+            294,
+            297,
+            297,
+            299,
+            299,
+            299,
+            299,
+            301,
+            301,
+            301,
+            304
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/duration",
+          "data": [
+            16,
+            18,
+            18,
+            18,
+            17,
+            18,
+            18,
+            17,
+            18,
+            20,
+            20,
+            20,
+            19,
+            20,
+            20,
+            19
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/velocity",
+          "data": [
+            53,
+            57,
+            57,
+            55,
+            56,
+            55,
+            57,
+            61,
+            61,
+            59,
+            60,
+            59,
+            61,
+            65,
+            65,
+            63
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 26,
+      "pt_name": "bar_chordburst_chordcycle_p5_p4_circular1757107734",
+      "N": 9,
+      "start_time": 308,
+      "samples": [
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/pitch",
+          "data": [
+            49,
+            49,
+            53,
+            56,
+            49,
+            56,
+            56,
+            52,
+            57
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/time",
+          "data": [
+            308,
+            308,
+            308,
+            310,
+            312,
+            312,
+            315,
+            315,
+            316
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/duration",
+          "data": [
+            4,
+            6,
+            6,
+            6,
+            5,
+            6,
+            6,
+            5,
+            6
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/velocity",
+          "data": [
+            72,
+            76,
+            76,
+            74,
+            75,
+            74,
+            76,
+            80,
+            80
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 27,
+      "pt_name": "bar_chordburst_chordcycle_p5_p4_circular1757107734",
+      "N": 15,
+      "start_time": 316,
+      "samples": [
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/pitch",
+          "data": [
+            51,
+            51,
+            55,
+            58,
+            51,
+            58,
+            58,
+            54,
+            59,
+            54,
+            54,
+            56,
+            54,
+            54,
+            58
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/time",
+          "data": [
+            316,
+            316,
+            316,
+            318,
+            320,
+            320,
+            323,
+            323,
+            324,
+            324,
+            326,
+            326,
+            326,
+            328,
+            330
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/duration",
+          "data": [
+            2,
+            4,
+            4,
+            4,
+            3,
+            4,
+            4,
+            3,
+            4,
+            6,
+            6,
+            6,
+            5,
+            6,
+            6
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/velocity",
+          "data": [
+            37,
+            41,
+            41,
+            39,
+            40,
+            39,
+            41,
+            45,
+            45,
+            43,
+            44,
+            43,
+            45,
+            49,
+            49
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 28,
+      "pt_name": "bar_chordburst_chordcycle_p5_p4_circular1757107734",
+      "N": 15,
+      "start_time": 332,
+      "samples": [
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/pitch",
+          "data": [
+            33,
+            33,
+            37,
+            40,
+            33,
+            40,
+            40,
+            36,
+            41,
+            36,
+            36,
+            38,
+            36,
+            36,
+            40
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/time",
+          "data": [
+            332,
+            332,
+            332,
+            334,
+            336,
+            336,
+            339,
+            339,
+            340,
+            340,
+            342,
+            342,
+            342,
+            344,
+            346
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/duration",
+          "data": [
+            16,
+            18,
+            18,
+            18,
+            17,
+            18,
+            18,
+            17,
+            18,
+            20,
+            20,
+            20,
+            19,
+            20,
+            20
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/velocity",
+          "data": [
+            71,
+            75,
+            75,
+            73,
+            74,
+            73,
+            75,
+            79,
+            79,
+            77,
+            78,
+            77,
+            79,
+            83,
+            83
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 29,
+      "pt_name": "bar_chordburst_chordcycle_p5_p4_circular1757107734",
+      "N": 14,
+      "start_time": 348,
+      "samples": [
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/pitch",
+          "data": [
+            58,
+            58,
+            62,
+            65,
+            58,
+            65,
+            65,
+            61,
+            66,
+            61,
+            61,
+            63,
+            61,
+            61
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/time",
+          "data": [
+            348,
+            348,
+            348,
+            350,
+            352,
+            352,
+            355,
+            355,
+            356,
+            356,
+            358,
+            358,
+            358,
+            360
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/duration",
+          "data": [
+            2,
+            4,
+            4,
+            4,
+            3,
+            4,
+            4,
+            3,
+            4,
+            6,
+            6,
+            6,
+            5,
+            6
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/velocity",
+          "data": [
+            54,
+            58,
+            58,
+            56,
+            57,
+            56,
+            58,
+            62,
+            62,
+            60,
+            61,
+            60,
+            62,
+            66
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordburst_chordcycle_p5_p4_circular1757107734/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 30,
+      "pt_name": "bar_melody_arc_p4_octave1757107728",
+      "N": 9,
+      "start_time": 360,
+      "samples": [
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/pitch",
+          "data": [
+            73,
+            75,
+            76,
+            74,
+            79,
+            74,
+            81,
+            74,
+            75
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/time",
+          "data": [
+            360,
+            362,
+            363,
+            365,
+            368,
+            369,
+            371,
+            373,
+            374
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/duration",
+          "data": [
+            4,
+            5,
+            5,
+            7,
+            6,
+            6,
+            5,
+            6,
+            6
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/velocity",
+          "data": [
+            39,
+            41,
+            42,
+            40,
+            40,
+            42,
+            44,
+            45,
+            43
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 31,
+      "pt_name": "bar_melody_arc_p4_octave1757107728",
+      "N": 22,
+      "start_time": 374,
+      "samples": [
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/pitch",
+          "data": [
+            74,
+            76,
+            77,
+            75,
+            80,
+            75,
+            82,
+            75,
+            76,
+            75,
+            75,
+            77,
+            75,
+            77,
+            78,
+            76,
+            81,
+            76,
+            83,
+            76,
+            77,
+            76
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/time",
+          "data": [
+            374,
+            376,
+            377,
+            379,
+            382,
+            383,
+            385,
+            387,
+            388,
+            390,
+            393,
+            394,
+            396,
+            398,
+            399,
+            401,
+            404,
+            405,
+            407,
+            409,
+            410,
+            412
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/duration",
+          "data": [
+            1,
+            2,
+            2,
+            4,
+            3,
+            3,
+            2,
+            3,
+            3,
+            5,
+            4,
+            4,
+            3,
+            4,
+            4,
+            6,
+            5,
+            5,
+            4,
+            5,
+            5,
+            7
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/velocity",
+          "data": [
+            70,
+            72,
+            73,
+            71,
+            71,
+            73,
+            75,
+            76,
+            74,
+            74,
+            76,
+            78,
+            79,
+            77,
+            77,
+            79,
+            81,
+            82,
+            80,
+            80,
+            82,
+            84
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 32,
+      "pt_name": "bar_melody_arc_p4_octave1757107728",
+      "N": 11,
+      "start_time": 396,
+      "samples": [
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/pitch",
+          "data": [
+            44,
+            46,
+            47,
+            45,
+            50,
+            45,
+            52,
+            45,
+            46,
+            45,
+            45
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/time",
+          "data": [
+            396,
+            398,
+            399,
+            401,
+            404,
+            405,
+            407,
+            409,
+            410,
+            412,
+            415
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/duration",
+          "data": [
+            8,
+            9,
+            9,
+            11,
+            10,
+            10,
+            9,
+            10,
+            10,
+            12,
+            11
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/velocity",
+          "data": [
+            38,
+            40,
+            41,
+            39,
+            39,
+            41,
+            43,
+            44,
+            42,
+            42,
+            44
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_p4_octave1757107728/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 33,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 21,
+      "start_time": 407,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            64,
+            66,
+            66,
+            71,
+            69,
+            81,
+            69,
+            70,
+            77,
+            70,
+            70,
+            74,
+            70,
+            71,
+            73,
+            73,
+            78,
+            76,
+            88,
+            76,
+            77
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            407,
+            409,
+            410,
+            410,
+            410,
+            413,
+            415,
+            416,
+            416,
+            418,
+            419,
+            419,
+            419,
+            422,
+            424,
+            425,
+            425,
+            427,
+            428,
+            428,
+            428
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            8,
+            9,
+            9,
+            11,
+            10,
+            10,
+            11,
+            9,
+            10,
+            10,
+            12,
+            11,
+            11,
+            12,
+            10,
+            11,
+            11,
+            13,
+            12,
+            12,
+            13
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            35,
+            38,
+            38,
+            39,
+            37,
+            39,
+            38,
+            39,
+            42,
+            42,
+            43,
+            41,
+            43,
+            42,
+            43,
+            46,
+            46,
+            47,
+            45,
+            47,
+            46
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 34,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 10,
+      "start_time": 428,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            64,
+            66,
+            66,
+            71,
+            69,
+            81,
+            69,
+            70,
+            77,
+            70
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            428,
+            430,
+            431,
+            431,
+            431,
+            434,
+            436,
+            437,
+            437,
+            439
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            16,
+            17,
+            17,
+            19,
+            18,
+            18,
+            19,
+            17,
+            18,
+            18
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            33,
+            36,
+            36,
+            37,
+            35,
+            37,
+            36,
+            37,
+            40,
+            40
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 35,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 22,
+      "start_time": 438,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            33,
+            35,
+            35,
+            40,
+            38,
+            50,
+            38,
+            39,
+            46,
+            39,
+            39,
+            43,
+            39,
+            40,
+            42,
+            42,
+            47,
+            45,
+            57,
+            45,
+            46,
+            53
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            438,
+            440,
+            441,
+            441,
+            441,
+            444,
+            446,
+            447,
+            447,
+            449,
+            450,
+            450,
+            450,
+            453,
+            455,
+            456,
+            456,
+            458,
+            459,
+            459,
+            459,
+            462
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            4,
+            5,
+            5,
+            7,
+            6,
+            6,
+            7,
+            5,
+            6,
+            6,
+            8,
+            7,
+            7,
+            8,
+            6,
+            7,
+            7,
+            9,
+            8,
+            8,
+            9,
+            7
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            41,
+            44,
+            44,
+            45,
+            43,
+            45,
+            44,
+            45,
+            48,
+            48,
+            49,
+            47,
+            49,
+            48,
+            49,
+            52,
+            52,
+            53,
+            51,
+            53,
+            52,
+            53
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 36,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 11,
+      "start_time": 460,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            70,
+            72,
+            72,
+            77,
+            75,
+            87,
+            75,
+            76,
+            83,
+            76,
+            76
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            460,
+            462,
+            463,
+            463,
+            463,
+            466,
+            468,
+            469,
+            469,
+            471,
+            472
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            4,
+            5,
+            5,
+            7,
+            6,
+            6,
+            7,
+            5,
+            6,
+            6,
+            8
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            74,
+            77,
+            77,
+            78,
+            76,
+            78,
+            77,
+            78,
+            81,
+            81,
+            82
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 37,
+      "pt_name": "bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758",
+      "N": 25,
+      "start_time": 472,
+      "samples": [
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/pitch",
+          "data": [
+            75,
+            75,
+            82,
+            75,
+            75,
+            80,
+            75,
+            87,
+            75,
+            75,
+            82,
+            75,
+            75,
+            80,
+            75,
+            87,
+            75,
+            75,
+            82,
+            75,
+            75,
+            80,
+            75,
+            87,
+            75
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/time",
+          "data": [
+            472,
+            472,
+            472,
+            472,
+            473,
+            473,
+            473,
+            473,
+            474,
+            474,
+            474,
+            474,
+            475,
+            475,
+            475,
+            475,
+            476,
+            476,
+            476,
+            476,
+            477,
+            477,
+            477,
+            477,
+            478
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/duration",
+          "data": [
+            1,
+            3,
+            3,
+            2,
+            2,
+            3,
+            1,
+            3,
+            3,
+            2,
+            2,
+            3,
+            1,
+            3,
+            3,
+            2,
+            2,
+            3,
+            1,
+            3,
+            3,
+            2,
+            2,
+            3,
+            1
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/velocity",
+          "data": [
+            38,
+            41,
+            41,
+            39,
+            40,
+            43,
+            43,
+            41,
+            42,
+            45,
+            45,
+            43,
+            44,
+            47,
+            47,
+            45,
+            46,
+            49,
+            49,
+            47,
+            48,
+            51,
+            51,
+            49,
+            50
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 38,
+      "pt_name": "bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758",
+      "N": 19,
+      "start_time": 479,
+      "samples": [
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/pitch",
+          "data": [
+            55,
+            55,
+            62,
+            55,
+            55,
+            60,
+            55,
+            67,
+            55,
+            55,
+            62,
+            55,
+            55,
+            60,
+            55,
+            67,
+            55,
+            55,
+            62
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/time",
+          "data": [
+            479,
+            479,
+            479,
+            479,
+            480,
+            480,
+            480,
+            480,
+            481,
+            481,
+            481,
+            481,
+            482,
+            482,
+            482,
+            482,
+            483,
+            483,
+            483
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/duration",
+          "data": [
+            4,
+            6,
+            6,
+            5,
+            5,
+            6,
+            4,
+            6,
+            6,
+            5,
+            5,
+            6,
+            4,
+            6,
+            6,
+            5,
+            5,
+            6,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/velocity",
+          "data": [
+            37,
+            40,
+            40,
+            38,
+            39,
+            42,
+            42,
+            40,
+            41,
+            44,
+            44,
+            42,
+            43,
+            46,
+            46,
+            44,
+            45,
+            48,
+            48
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 39,
+      "pt_name": "bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758",
+      "N": 24,
+      "start_time": 483,
+      "samples": [
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/pitch",
+          "data": [
+            59,
+            59,
+            66,
+            59,
+            59,
+            64,
+            59,
+            71,
+            59,
+            59,
+            66,
+            59,
+            59,
+            64,
+            59,
+            71,
+            59,
+            59,
+            66,
+            59,
+            59,
+            64,
+            59,
+            71
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/time",
+          "data": [
+            483,
+            483,
+            483,
+            483,
+            484,
+            484,
+            484,
+            484,
+            485,
+            485,
+            485,
+            485,
+            486,
+            486,
+            486,
+            486,
+            487,
+            487,
+            487,
+            487,
+            488,
+            488,
+            488,
+            488
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/duration",
+          "data": [
+            2,
+            4,
+            4,
+            3,
+            3,
+            4,
+            2,
+            4,
+            4,
+            3,
+            3,
+            4,
+            2,
+            4,
+            4,
+            3,
+            3,
+            4,
+            2,
+            4,
+            4,
+            3,
+            3,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/velocity",
+          "data": [
+            43,
+            46,
+            46,
+            44,
+            45,
+            48,
+            48,
+            46,
+            47,
+            50,
+            50,
+            48,
+            49,
+            52,
+            52,
+            50,
+            51,
+            54,
+            54,
+            52,
+            53,
+            56,
+            56,
+            54
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 40,
+      "pt_name": "bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758",
+      "N": 13,
+      "start_time": 489,
+      "samples": [
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/pitch",
+          "data": [
+            58,
+            58,
+            65,
+            58,
+            58,
+            63,
+            58,
+            70,
+            58,
+            58,
+            65,
+            58,
+            58
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/time",
+          "data": [
+            489,
+            489,
+            489,
+            489,
+            490,
+            490,
+            490,
+            490,
+            491,
+            491,
+            491,
+            491,
+            492
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/duration",
+          "data": [
+            4,
+            6,
+            6,
+            5,
+            5,
+            6,
+            4,
+            6,
+            6,
+            5,
+            5,
+            6,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/velocity",
+          "data": [
+            64,
+            67,
+            67,
+            65,
+            66,
+            69,
+            69,
+            67,
+            68,
+            71,
+            71,
+            69,
+            70
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 41,
+      "pt_name": "bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758",
+      "N": 7,
+      "start_time": 493,
+      "samples": [
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/pitch",
+          "data": [
+            57,
+            57,
+            64,
+            57,
+            57,
+            62,
+            57
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/time",
+          "data": [
+            493,
+            493,
+            493,
+            493,
+            494,
+            494,
+            494
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/duration",
+          "data": [
+            8,
+            10,
+            10,
+            9,
+            9,
+            10,
+            8
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/velocity",
+          "data": [
+            46,
+            49,
+            49,
+            47,
+            48,
+            51,
+            51
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 42,
+      "pt_name": "bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752",
+      "N": 25,
+      "start_time": 495,
+      "samples": [
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/pitch",
+          "data": [
+            45,
+            45,
+            50,
+            50,
+            57,
+            50,
+            45,
+            45,
+            49,
+            45,
+            57,
+            45,
+            45,
+            50,
+            50,
+            57,
+            50,
+            45,
+            45,
+            49,
+            45,
+            57,
+            45,
+            45,
+            50
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/time",
+          "data": [
+            495,
+            497,
+            497,
+            497,
+            500,
+            500,
+            500,
+            502,
+            505,
+            507,
+            507,
+            507,
+            510,
+            510,
+            510,
+            512,
+            515,
+            517,
+            517,
+            517,
+            520,
+            520,
+            520,
+            522,
+            525
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/duration",
+          "data": [
+            8,
+            9,
+            9,
+            8,
+            10,
+            10,
+            8,
+            9,
+            10,
+            10,
+            9,
+            11,
+            11,
+            9,
+            10,
+            11,
+            11,
+            10,
+            12,
+            12,
+            10,
+            11,
+            12,
+            12,
+            11
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/velocity",
+          "data": [
+            51,
+            54,
+            54,
+            55,
+            53,
+            55,
+            54,
+            57,
+            57,
+            58,
+            56,
+            58,
+            57,
+            60,
+            60,
+            61,
+            59,
+            61,
+            60,
+            63,
+            63,
+            64,
+            62,
+            64,
+            63
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 43,
+      "pt_name": "bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752",
+      "N": 6,
+      "start_time": 520,
+      "samples": [
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/pitch",
+          "data": [
+            47,
+            47,
+            52,
+            52,
+            59,
+            52
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/time",
+          "data": [
+            520,
+            522,
+            522,
+            522,
+            525,
+            525
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/duration",
+          "data": [
+            4,
+            5,
+            5,
+            4,
+            6,
+            6
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/velocity",
+          "data": [
+            66,
+            69,
+            69,
+            70,
+            68,
+            70
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 44,
+      "pt_name": "bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752",
+      "N": 9,
+      "start_time": 526,
+      "samples": [
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/pitch",
+          "data": [
+            62,
+            62,
+            67,
+            67,
+            74,
+            67,
+            62,
+            62,
+            66
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/time",
+          "data": [
+            526,
+            528,
+            528,
+            528,
+            531,
+            531,
+            531,
+            533,
+            536
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/duration",
+          "data": [
+            2,
+            3,
+            3,
+            2,
+            4,
+            4,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/velocity",
+          "data": [
+            51,
+            54,
+            54,
+            55,
+            53,
+            55,
+            54,
+            57,
+            57
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 45,
+      "pt_name": "bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752",
+      "N": 11,
+      "start_time": 536,
+      "samples": [
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/pitch",
+          "data": [
+            47,
+            47,
+            52,
+            52,
+            59,
+            52,
+            47,
+            47,
+            51,
+            47,
+            59
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/time",
+          "data": [
+            536,
+            538,
+            538,
+            538,
+            541,
+            541,
+            541,
+            543,
+            546,
+            548,
+            548
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/duration",
+          "data": [
+            2,
+            3,
+            3,
+            2,
+            4,
+            4,
+            2,
+            3,
+            4,
+            4,
+            3
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/velocity",
+          "data": [
+            50,
+            53,
+            53,
+            54,
+            52,
+            54,
+            53,
+            56,
+            56,
+            57,
+            55
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 46,
+      "pt_name": "bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752",
+      "N": 23,
+      "start_time": 548,
+      "samples": [
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/pitch",
+          "data": [
+            51,
+            51,
+            56,
+            56,
+            63,
+            56,
+            51,
+            51,
+            55,
+            51,
+            63,
+            51,
+            51,
+            56,
+            56,
+            63,
+            56,
+            51,
+            51,
+            55,
+            51,
+            63,
+            51
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/time",
+          "data": [
+            548,
+            550,
+            550,
+            550,
+            553,
+            553,
+            553,
+            555,
+            558,
+            560,
+            560,
+            560,
+            563,
+            563,
+            563,
+            565,
+            568,
+            570,
+            570,
+            570,
+            573,
+            573,
+            573
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/duration",
+          "data": [
+            1,
+            2,
+            2,
+            1,
+            3,
+            3,
+            1,
+            2,
+            3,
+            3,
+            2,
+            4,
+            4,
+            2,
+            3,
+            4,
+            4,
+            3,
+            5,
+            5,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/velocity",
+          "data": [
+            59,
+            62,
+            62,
+            63,
+            61,
+            63,
+            62,
+            65,
+            65,
+            66,
+            64,
+            66,
+            65,
+            68,
+            68,
+            69,
+            67,
+            69,
+            68,
+            71,
+            71,
+            72,
+            70
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 47,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 19,
+      "start_time": 573,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            76,
+            78,
+            78,
+            83,
+            81,
+            93,
+            81,
+            82,
+            89,
+            82,
+            82,
+            86,
+            82,
+            83,
+            85,
+            85,
+            90,
+            88,
+            100
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            573,
+            575,
+            576,
+            576,
+            576,
+            579,
+            581,
+            582,
+            582,
+            584,
+            585,
+            585,
+            585,
+            588,
+            590,
+            591,
+            591,
+            593,
+            594
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            4,
+            5,
+            5,
+            7,
+            6,
+            6,
+            7,
+            5,
+            6,
+            6,
+            8,
+            7,
+            7,
+            8,
+            6,
+            7,
+            7,
+            9,
+            8
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            35,
+            38,
+            38,
+            39,
+            37,
+            39,
+            38,
+            39,
+            42,
+            42,
+            43,
+            41,
+            43,
+            42,
+            43,
+            46,
+            46,
+            47,
+            45
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 48,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 22,
+      "start_time": 592,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            31,
+            33,
+            33,
+            38,
+            36,
+            48,
+            36,
+            37,
+            44,
+            37,
+            37,
+            41,
+            37,
+            38,
+            40,
+            40,
+            45,
+            43,
+            55,
+            43,
+            44,
+            51
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            592,
+            594,
+            595,
+            595,
+            595,
+            598,
+            600,
+            601,
+            601,
+            603,
+            604,
+            604,
+            604,
+            607,
+            609,
+            610,
+            610,
+            612,
+            613,
+            613,
+            613,
+            616
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            2,
+            3,
+            3,
+            5,
+            4,
+            4,
+            5,
+            3,
+            4,
+            4,
+            6,
+            5,
+            5,
+            6,
+            4,
+            5,
+            5,
+            7,
+            6,
+            6,
+            7,
+            5
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            73,
+            76,
+            76,
+            77,
+            75,
+            77,
+            76,
+            77,
+            80,
+            80,
+            81,
+            79,
+            81,
+            80,
+            81,
+            84,
+            84,
+            85,
+            83,
+            85,
+            84,
+            85
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 49,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 8,
+      "start_time": 616,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            31,
+            33,
+            33,
+            38,
+            36,
+            48,
+            36,
+            37
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            616,
+            618,
+            619,
+            619,
+            619,
+            622,
+            624,
+            625
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            1,
+            2,
+            2,
+            4,
+            3,
+            3,
+            4,
+            2
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            73,
+            76,
+            76,
+            77,
+            75,
+            77,
+            76,
+            77
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 50,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 6,
+      "start_time": 624,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            45,
+            47,
+            47,
+            52,
+            50,
+            62
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            624,
+            626,
+            627,
+            627,
+            627,
+            630
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            8,
+            9,
+            9,
+            11,
+            10,
+            10
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            68,
+            71,
+            71,
+            72,
+            70,
+            72
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 51,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 19,
+      "start_time": 630,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            78,
+            80,
+            80,
+            85,
+            83,
+            95,
+            83,
+            84,
+            91,
+            84,
+            84,
+            88,
+            84,
+            85,
+            87,
+            87,
+            92,
+            90,
+            102
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            630,
+            632,
+            633,
+            633,
+            633,
+            636,
+            638,
+            639,
+            639,
+            641,
+            642,
+            642,
+            642,
+            645,
+            647,
+            648,
+            648,
+            650,
+            651
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            4,
+            5,
+            5,
+            7,
+            6,
+            6,
+            7,
+            5,
+            6,
+            6,
+            8,
+            7,
+            7,
+            8,
+            6,
+            7,
+            7,
+            9,
+            8
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            36,
+            39,
+            39,
+            40,
+            38,
+            40,
+            39,
+            40,
+            43,
+            43,
+            44,
+            42,
+            44,
+            43,
+            44,
+            47,
+            47,
+            48,
+            46
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 52,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 16,
+      "start_time": 649,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            45,
+            47,
+            47,
+            52,
+            50,
+            62,
+            50,
+            51,
+            58,
+            51,
+            51,
+            55,
+            51,
+            52,
+            54,
+            54
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            649,
+            651,
+            652,
+            652,
+            652,
+            655,
+            657,
+            658,
+            658,
+            660,
+            661,
+            661,
+            661,
+            664,
+            666,
+            667
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            2,
+            3,
+            3,
+            5,
+            4,
+            4,
+            5,
+            3,
+            4,
+            4,
+            6,
+            5,
+            5,
+            6,
+            4,
+            5
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            62,
+            65,
+            65,
+            66,
+            64,
+            66,
+            65,
+            66,
+            69,
+            69,
+            70,
+            68,
+            70,
+            69,
+            70,
+            73
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 53,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 19,
+      "start_time": 667,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            72,
+            74,
+            74,
+            79,
+            77,
+            89,
+            77,
+            78,
+            85,
+            78,
+            78,
+            82,
+            78,
+            79,
+            81,
+            81,
+            86,
+            84,
+            96
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            667,
+            669,
+            670,
+            670,
+            670,
+            673,
+            675,
+            676,
+            676,
+            678,
+            679,
+            679,
+            679,
+            682,
+            684,
+            685,
+            685,
+            687,
+            688
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            16,
+            17,
+            17,
+            19,
+            18,
+            18,
+            19,
+            17,
+            18,
+            18,
+            20,
+            19,
+            19,
+            20,
+            18,
+            19,
+            19,
+            21,
+            20
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            57,
+            60,
+            60,
+            61,
+            59,
+            61,
+            60,
+            61,
+            64,
+            64,
+            65,
+            63,
+            65,
+            64,
+            65,
+            68,
+            68,
+            69,
+            67
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 54,
+      "pt_name": "bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776",
+      "N": 10,
+      "start_time": 684,
+      "samples": [
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/pitch",
+          "data": [
+            36,
+            38,
+            38,
+            43,
+            41,
+            53,
+            41,
+            42,
+            49,
+            42
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/time",
+          "data": [
+            684,
+            686,
+            687,
+            687,
+            687,
+            690,
+            692,
+            693,
+            693,
+            695
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/duration",
+          "data": [
+            8,
+            9,
+            9,
+            11,
+            10,
+            10,
+            11,
+            9,
+            10,
+            10
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/velocity",
+          "data": [
+            46,
+            49,
+            49,
+            50,
+            48,
+            50,
+            49,
+            50,
+            53,
+            53
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodychordburst_varied_p4_p5_octave_circular_pianorange17571078021757107776/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 55,
+      "pt_name": "bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770",
+      "N": 8,
+      "start_time": 694,
+      "samples": [
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/pitch",
+          "data": [
+            80,
+            80,
+            85,
+            85,
+            92,
+            85,
+            85,
+            89
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/time",
+          "data": [
+            694,
+            694,
+            694,
+            696,
+            696,
+            696,
+            699,
+            699
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/duration",
+          "data": [
+            2,
+            4,
+            4,
+            4,
+            3,
+            4,
+            4,
+            3
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/velocity",
+          "data": [
+            41,
+            45,
+            45,
+            43,
+            44,
+            43,
+            45,
+            49
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 56,
+      "pt_name": "bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770",
+      "N": 5,
+      "start_time": 699,
+      "samples": [
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/pitch",
+          "data": [
+            58,
+            58,
+            63,
+            63,
+            70
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/time",
+          "data": [
+            699,
+            699,
+            699,
+            701,
+            701
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/duration",
+          "data": [
+            2,
+            4,
+            4,
+            4,
+            3
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/velocity",
+          "data": [
+            34,
+            38,
+            38,
+            36,
+            37
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chords_blockfield_p4p5_octave_circular_pianorange17571077901757107770/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 57,
+      "pt_name": "bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758",
+      "N": 25,
+      "start_time": 701,
+      "samples": [
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/pitch",
+          "data": [
+            71,
+            71,
+            78,
+            71,
+            71,
+            76,
+            71,
+            83,
+            71,
+            71,
+            78,
+            71,
+            71,
+            76,
+            71,
+            83,
+            71,
+            71,
+            78,
+            71,
+            71,
+            76,
+            71,
+            83,
+            71
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/time",
+          "data": [
+            701,
+            701,
+            701,
+            701,
+            702,
+            702,
+            702,
+            702,
+            703,
+            703,
+            703,
+            703,
+            704,
+            704,
+            704,
+            704,
+            705,
+            705,
+            705,
+            705,
+            706,
+            706,
+            706,
+            706,
+            707
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/duration",
+          "data": [
+            8,
+            10,
+            10,
+            9,
+            9,
+            10,
+            8,
+            10,
+            10,
+            9,
+            9,
+            10,
+            8,
+            10,
+            10,
+            9,
+            9,
+            10,
+            8,
+            10,
+            10,
+            9,
+            9,
+            10,
+            8
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/velocity",
+          "data": [
+            73,
+            76,
+            76,
+            74,
+            75,
+            78,
+            78,
+            76,
+            77,
+            80,
+            80,
+            78,
+            79,
+            82,
+            82,
+            80,
+            81,
+            84,
+            84,
+            82,
+            83,
+            86,
+            86,
+            84,
+            85
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 58,
+      "pt_name": "bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758",
+      "N": 12,
+      "start_time": 707,
+      "samples": [
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/pitch",
+          "data": [
+            42,
+            42,
+            49,
+            42,
+            42,
+            47,
+            42,
+            54,
+            42,
+            42,
+            49,
+            42
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/time",
+          "data": [
+            707,
+            707,
+            707,
+            707,
+            708,
+            708,
+            708,
+            708,
+            709,
+            709,
+            709,
+            709
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/duration",
+          "data": [
+            8,
+            10,
+            10,
+            9,
+            9,
+            10,
+            8,
+            10,
+            10,
+            9,
+            9,
+            10
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/velocity",
+          "data": [
+            44,
+            47,
+            47,
+            45,
+            46,
+            49,
+            49,
+            47,
+            48,
+            51,
+            51,
+            49
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_sustainedchord_p5_octave_circular_pianorange17571077681757107758/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 59,
+      "pt_name": "bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752",
+      "N": 21,
+      "start_time": 709,
+      "samples": [
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/pitch",
+          "data": [
+            41,
+            41,
+            46,
+            46,
+            53,
+            46,
+            41,
+            41,
+            45,
+            41,
+            53,
+            41,
+            41,
+            46,
+            46,
+            53,
+            46,
+            41,
+            41,
+            45,
+            41
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/time",
+          "data": [
+            709,
+            711,
+            711,
+            711,
+            714,
+            714,
+            714,
+            716,
+            719,
+            721,
+            721,
+            721,
+            724,
+            724,
+            724,
+            726,
+            729,
+            731,
+            731,
+            731,
+            734
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/duration",
+          "data": [
+            1,
+            2,
+            2,
+            1,
+            3,
+            3,
+            1,
+            2,
+            3,
+            3,
+            2,
+            4,
+            4,
+            2,
+            3,
+            4,
+            4,
+            3,
+            5,
+            5,
+            3
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/velocity",
+          "data": [
+            30,
+            33,
+            33,
+            34,
+            32,
+            34,
+            33,
+            36,
+            36,
+            37,
+            35,
+            37,
+            36,
+            39,
+            39,
+            40,
+            38,
+            40,
+            39,
+            42,
+            42
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 60,
+      "pt_name": "bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752",
+      "N": 16,
+      "start_time": 734,
+      "samples": [
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/pitch",
+          "data": [
+            33,
+            33,
+            38,
+            38,
+            45,
+            38,
+            33,
+            33,
+            37,
+            33,
+            45,
+            33,
+            33,
+            38,
+            38,
+            45
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/time",
+          "data": [
+            734,
+            736,
+            736,
+            736,
+            739,
+            739,
+            739,
+            741,
+            744,
+            746,
+            746,
+            746,
+            749,
+            749,
+            749,
+            751
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/duration",
+          "data": [
+            2,
+            3,
+            3,
+            2,
+            4,
+            4,
+            2,
+            3,
+            4,
+            4,
+            3,
+            5,
+            5,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/velocity",
+          "data": [
+            77,
+            80,
+            80,
+            81,
+            79,
+            81,
+            80,
+            83,
+            83,
+            84,
+            82,
+            84,
+            83,
+            86,
+            86,
+            87
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 61,
+      "pt_name": "bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752",
+      "N": 20,
+      "start_time": 751,
+      "samples": [
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/pitch",
+          "data": [
+            52,
+            52,
+            57,
+            57,
+            64,
+            57,
+            52,
+            52,
+            56,
+            52,
+            64,
+            52,
+            52,
+            57,
+            57,
+            64,
+            57,
+            52,
+            52,
+            56
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/time",
+          "data": [
+            751,
+            753,
+            753,
+            753,
+            756,
+            756,
+            756,
+            758,
+            761,
+            763,
+            763,
+            763,
+            766,
+            766,
+            766,
+            768,
+            771,
+            773,
+            773,
+            773
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/duration",
+          "data": [
+            16,
+            17,
+            17,
+            16,
+            18,
+            18,
+            16,
+            17,
+            18,
+            18,
+            17,
+            19,
+            19,
+            17,
+            18,
+            19,
+            19,
+            18,
+            20,
+            20
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/velocity",
+          "data": [
+            56,
+            59,
+            59,
+            60,
+            58,
+            60,
+            59,
+            62,
+            62,
+            63,
+            61,
+            63,
+            62,
+            65,
+            65,
+            66,
+            64,
+            66,
+            65,
+            68
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 62,
+      "pt_name": "bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752",
+      "N": 23,
+      "start_time": 774,
+      "samples": [
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/pitch",
+          "data": [
+            33,
+            33,
+            38,
+            38,
+            45,
+            38,
+            33,
+            33,
+            37,
+            33,
+            45,
+            33,
+            33,
+            38,
+            38,
+            45,
+            38,
+            33,
+            33,
+            37,
+            33,
+            45,
+            33
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/time",
+          "data": [
+            774,
+            776,
+            776,
+            776,
+            779,
+            779,
+            779,
+            781,
+            784,
+            786,
+            786,
+            786,
+            789,
+            789,
+            789,
+            791,
+            794,
+            796,
+            796,
+            796,
+            799,
+            799,
+            799
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/duration",
+          "data": [
+            1,
+            2,
+            2,
+            1,
+            3,
+            3,
+            1,
+            2,
+            3,
+            3,
+            2,
+            4,
+            4,
+            2,
+            3,
+            4,
+            4,
+            3,
+            5,
+            5,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/velocity",
+          "data": [
+            63,
+            66,
+            66,
+            67,
+            65,
+            67,
+            66,
+            69,
+            69,
+            70,
+            68,
+            70,
+            69,
+            72,
+            72,
+            73,
+            71,
+            73,
+            72,
+            75,
+            75,
+            76,
+            74
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 63,
+      "pt_name": "bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752",
+      "N": 25,
+      "start_time": 799,
+      "samples": [
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/pitch",
+          "data": [
+            40,
+            40,
+            45,
+            45,
+            52,
+            45,
+            40,
+            40,
+            44,
+            40,
+            52,
+            40,
+            40,
+            45,
+            45,
+            52,
+            45,
+            40,
+            40,
+            44,
+            40,
+            52,
+            40,
+            40,
+            45
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/time",
+          "data": [
+            799,
+            801,
+            801,
+            801,
+            804,
+            804,
+            804,
+            806,
+            809,
+            811,
+            811,
+            811,
+            814,
+            814,
+            814,
+            816,
+            819,
+            821,
+            821,
+            821,
+            824,
+            824,
+            824,
+            826,
+            829
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/duration",
+          "data": [
+            2,
+            3,
+            3,
+            2,
+            4,
+            4,
+            2,
+            3,
+            4,
+            4,
+            3,
+            5,
+            5,
+            3,
+            4,
+            5,
+            5,
+            4,
+            6,
+            6,
+            4,
+            5,
+            6,
+            6,
+            5
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/velocity",
+          "data": [
+            49,
+            52,
+            52,
+            53,
+            51,
+            53,
+            52,
+            55,
+            55,
+            56,
+            54,
+            56,
+            55,
+            58,
+            58,
+            59,
+            57,
+            59,
+            58,
+            61,
+            61,
+            62,
+            60,
+            62,
+            61
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordprogression_p4p5_octave_circular_pianorange17571077571757107752/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2446 @@
+[
+  {
+    "name": "pt_bar_melody_arc11757100637",
+    "dimensions": [
+      {
+        "feature_name": "pitch",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "time",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "duration",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "velocity",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "numerator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "denominator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "pt_bar_chords_field31897011757100644",
+    "dimensions": [
+      {
+        "feature_name": "pitch",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "time",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "duration",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "velocity",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "numerator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "denominator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "pt_bar_melodychord_burst235771006491757100659",
+    "dimensions": [
+      {
+        "feature_name": "pitch",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "time",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "duration",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "velocity",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "numerator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "denominator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "pt_bar_chordprog_57419011757100666",
+    "dimensions": [
+      {
+        "feature_name": "pitch",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "time",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "duration",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "velocity",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "numerator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "denominator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "pt_bar_sustainchord_886200117571007231757100672",
+    "dimensions": [
+      {
+        "feature_name": "pitch",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "time",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "duration",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "velocity",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "numerator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "denominator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "pt_bar_melodyonly_3159400117571007551757100677",
+    "dimensions": [
+      {
+        "feature_name": "pitch",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              12
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "time",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "duration",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "velocity",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "numerator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "denominator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "pt_bar_chordfield_43640118751006741757100683",
+    "dimensions": [
+      {
+        "feature_name": "pitch",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "time",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "duration",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "velocity",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "numerator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "denominator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "pt_bar_melody_arc2564300117571006891757100690",
+    "dimensions": [
+      {
+        "feature_name": "pitch",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              12
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              12
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "time",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "duration",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "velocity",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "numerator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "denominator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "pt_bar_melodyonly_2427510013571007211757100696",
+    "dimensions": [
+      {
+        "feature_name": "pitch",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "time",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "duration",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "velocity",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "numerator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "denominator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "pt_bar_chordfield_503701257400117571007011757100702",
+    "dimensions": [
+      {
+        "feature_name": "pitch",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              5
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              7
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "time",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "duration",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              1
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "velocity",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              4
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              2
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          },
+          {
+            "name": "add",
+            "args": [
+              3
+            ]
+          },
+          {
+            "name": "subtract",
+            "args": [
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "numerator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "feature_name": "denominator",
+        "transformations": [
+          {
+            "name": "add",
+            "args": [
+              0
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

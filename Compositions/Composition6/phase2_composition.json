@@ -1,0 +1,3792 @@
+{
+  "vocabulary_names_used": [
+    "bar_melody_arc_bounded1757099783",
+    "bar_chord_prog_burst_bounded2275314191757099790",
+    "bar_melody_chordburst_bounded17570998031757099811",
+    "bar_chord_sustain_bounded17570998211757099818",
+    "bar_melodyonly_bounded17570998311757099839",
+    "bar_chordfield_prog_bounded17570998551757099851",
+    "bar_chordfield_prog_burst_bounded17570998661757099857",
+    "bar_melody_chordburst_bounded_alt17570999061757099864",
+    "bar_chordfield_prog_bounded_alt175709991217570998721757099871",
+    "bar_melodyonly_bounded_new11757099877"
+  ],
+  "placements": [
+    {
+      "run_id": 0,
+      "start_time": 0
+    },
+    {
+      "run_id": 1,
+      "start_time": 38
+    },
+    {
+      "run_id": 2,
+      "start_time": 75
+    },
+    {
+      "run_id": 3,
+      "start_time": 114
+    },
+    {
+      "run_id": 4,
+      "start_time": 128
+    },
+    {
+      "run_id": 5,
+      "start_time": 145
+    },
+    {
+      "run_id": 6,
+      "start_time": 150
+    },
+    {
+      "run_id": 7,
+      "start_time": 163
+    },
+    {
+      "run_id": 8,
+      "start_time": 179
+    },
+    {
+      "run_id": 9,
+      "start_time": 184
+    },
+    {
+      "run_id": 10,
+      "start_time": 188
+    },
+    {
+      "run_id": 11,
+      "start_time": 194
+    },
+    {
+      "run_id": 12,
+      "start_time": 198
+    },
+    {
+      "run_id": 13,
+      "start_time": 201
+    },
+    {
+      "run_id": 14,
+      "start_time": 232
+    },
+    {
+      "run_id": 15,
+      "start_time": 245
+    },
+    {
+      "run_id": 16,
+      "start_time": 257
+    },
+    {
+      "run_id": 17,
+      "start_time": 265
+    },
+    {
+      "run_id": 18,
+      "start_time": 282
+    },
+    {
+      "run_id": 19,
+      "start_time": 306
+    },
+    {
+      "run_id": 20,
+      "start_time": 315
+    },
+    {
+      "run_id": 21,
+      "start_time": 335
+    },
+    {
+      "run_id": 22,
+      "start_time": 338
+    },
+    {
+      "run_id": 23,
+      "start_time": 357
+    },
+    {
+      "run_id": 24,
+      "start_time": 380
+    },
+    {
+      "run_id": 25,
+      "start_time": 385
+    },
+    {
+      "run_id": 26,
+      "start_time": 387
+    },
+    {
+      "run_id": 27,
+      "start_time": 395
+    },
+    {
+      "run_id": 28,
+      "start_time": 408
+    },
+    {
+      "run_id": 29,
+      "start_time": 439
+    }
+  ],
+  "runs_time_shifted": [
+    {
+      "run_id": 0,
+      "pt_name": "bar_melody_arc_bounded1757099783",
+      "N": 22,
+      "start_time": 0,
+      "samples": [
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/pitch",
+          "data": [
+            69,
+            71,
+            72,
+            79,
+            77,
+            78,
+            73,
+            75,
+            76,
+            75,
+            80,
+            78,
+            71,
+            73,
+            74,
+            81,
+            79,
+            80,
+            75,
+            77,
+            78,
+            77
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/time",
+          "data": [
+            0,
+            2,
+            3,
+            5,
+            6,
+            9,
+            11,
+            13,
+            14,
+            16,
+            17,
+            20,
+            22,
+            24,
+            25,
+            27,
+            28,
+            31,
+            33,
+            35,
+            36,
+            38
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/duration",
+          "data": [
+            4,
+            6,
+            6,
+            7,
+            6,
+            7,
+            7,
+            6,
+            7,
+            9,
+            9,
+            10,
+            9,
+            10,
+            10,
+            9,
+            10,
+            12,
+            12,
+            13,
+            12,
+            13
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/velocity",
+          "data": [
+            68,
+            70,
+            72,
+            71,
+            71,
+            69,
+            71,
+            73,
+            72,
+            72,
+            70,
+            72,
+            74,
+            73,
+            73,
+            71,
+            73,
+            75,
+            74,
+            74,
+            72,
+            74
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 1,
+      "pt_name": "bar_melody_arc_bounded1757099783",
+      "N": 25,
+      "start_time": 38,
+      "samples": [
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/pitch",
+          "data": [
+            63,
+            65,
+            66,
+            73,
+            71,
+            72,
+            67,
+            69,
+            70,
+            69,
+            74,
+            72,
+            65,
+            67,
+            68,
+            75,
+            73,
+            74,
+            69,
+            71,
+            72,
+            71,
+            76,
+            74,
+            67
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/time",
+          "data": [
+            38,
+            40,
+            41,
+            43,
+            44,
+            47,
+            49,
+            51,
+            52,
+            54,
+            55,
+            58,
+            60,
+            62,
+            63,
+            65,
+            66,
+            69,
+            71,
+            73,
+            74,
+            76,
+            77,
+            80,
+            82
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/duration",
+          "data": [
+            4,
+            6,
+            6,
+            7,
+            6,
+            7,
+            7,
+            6,
+            7,
+            9,
+            9,
+            10,
+            9,
+            10,
+            10,
+            9,
+            10,
+            12,
+            12,
+            13,
+            12,
+            13,
+            13,
+            12,
+            13
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/velocity",
+          "data": [
+            77,
+            79,
+            81,
+            80,
+            80,
+            78,
+            80,
+            82,
+            81,
+            81,
+            79,
+            81,
+            83,
+            82,
+            82,
+            80,
+            82,
+            84,
+            83,
+            83,
+            81,
+            83,
+            85,
+            84,
+            84
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 2,
+      "pt_name": "bar_melody_arc_bounded1757099783",
+      "N": 23,
+      "start_time": 75,
+      "samples": [
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/pitch",
+          "data": [
+            58,
+            60,
+            61,
+            68,
+            66,
+            67,
+            62,
+            64,
+            65,
+            64,
+            69,
+            67,
+            60,
+            62,
+            63,
+            70,
+            68,
+            69,
+            64,
+            66,
+            67,
+            66,
+            71
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/time",
+          "data": [
+            75,
+            77,
+            78,
+            80,
+            81,
+            84,
+            86,
+            88,
+            89,
+            91,
+            92,
+            95,
+            97,
+            99,
+            100,
+            102,
+            103,
+            106,
+            108,
+            110,
+            111,
+            113,
+            114
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/duration",
+          "data": [
+            4,
+            6,
+            6,
+            7,
+            6,
+            7,
+            7,
+            6,
+            7,
+            9,
+            9,
+            10,
+            9,
+            10,
+            10,
+            9,
+            10,
+            12,
+            12,
+            13,
+            12,
+            13,
+            13
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/velocity",
+          "data": [
+            51,
+            53,
+            55,
+            54,
+            54,
+            52,
+            54,
+            56,
+            55,
+            55,
+            53,
+            55,
+            57,
+            56,
+            56,
+            54,
+            56,
+            58,
+            57,
+            57,
+            55,
+            57,
+            59
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_arc_bounded1757099783/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 3,
+      "pt_name": "bar_chord_prog_burst_bounded2275314191757099790",
+      "N": 14,
+      "start_time": 114,
+      "samples": [
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/pitch",
+          "data": [
+            69,
+            73,
+            76,
+            81,
+            77,
+            77,
+            84,
+            77,
+            79,
+            84,
+            79,
+            82,
+            79,
+            83
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/time",
+          "data": [
+            114,
+            116,
+            116,
+            116,
+            119,
+            120,
+            120,
+            122,
+            122,
+            123,
+            125,
+            125,
+            125,
+            128
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/duration",
+          "data": [
+            3,
+            4,
+            4,
+            6,
+            5,
+            6,
+            5,
+            5,
+            6,
+            7,
+            7,
+            9,
+            8,
+            9
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/velocity",
+          "data": [
+            58,
+            61,
+            61,
+            63,
+            61,
+            62,
+            61,
+            64,
+            64,
+            66,
+            64,
+            65,
+            64,
+            67
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 4,
+      "pt_name": "bar_chord_prog_burst_bounded2275314191757099790",
+      "N": 17,
+      "start_time": 128,
+      "samples": [
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/pitch",
+          "data": [
+            63,
+            67,
+            70,
+            75,
+            71,
+            71,
+            78,
+            71,
+            73,
+            78,
+            73,
+            76,
+            73,
+            77,
+            80,
+            85,
+            81
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/time",
+          "data": [
+            128,
+            130,
+            130,
+            130,
+            133,
+            134,
+            134,
+            136,
+            136,
+            137,
+            139,
+            139,
+            139,
+            142,
+            143,
+            143,
+            145
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/duration",
+          "data": [
+            4,
+            5,
+            5,
+            7,
+            6,
+            7,
+            6,
+            6,
+            7,
+            8,
+            8,
+            10,
+            9,
+            10,
+            9,
+            9,
+            10
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/velocity",
+          "data": [
+            60,
+            63,
+            63,
+            65,
+            63,
+            64,
+            63,
+            66,
+            66,
+            68,
+            66,
+            67,
+            66,
+            69,
+            69,
+            71,
+            69
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 5,
+      "pt_name": "bar_chord_prog_burst_bounded2275314191757099790",
+      "N": 5,
+      "start_time": 145,
+      "samples": [
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/pitch",
+          "data": [
+            63,
+            67,
+            70,
+            75,
+            71
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/time",
+          "data": [
+            145,
+            147,
+            147,
+            147,
+            150
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/duration",
+          "data": [
+            6,
+            7,
+            7,
+            9,
+            8
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/velocity",
+          "data": [
+            57,
+            60,
+            60,
+            62,
+            60
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_prog_burst_bounded2275314191757099790/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 6,
+      "pt_name": "bar_melody_chordburst_bounded17570998031757099811",
+      "N": 13,
+      "start_time": 150,
+      "samples": [
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/pitch",
+          "data": [
+            63,
+            65,
+            69,
+            69,
+            76,
+            72,
+            72,
+            67,
+            69,
+            69,
+            74,
+            72,
+            72
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/time",
+          "data": [
+            150,
+            152,
+            153,
+            153,
+            153,
+            155,
+            156,
+            156,
+            159,
+            160,
+            162,
+            163,
+            163
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/duration",
+          "data": [
+            3,
+            4,
+            4,
+            6,
+            5,
+            5,
+            6,
+            5,
+            6,
+            7,
+            7,
+            9,
+            8
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/velocity",
+          "data": [
+            57,
+            59,
+            59,
+            62,
+            61,
+            61,
+            59,
+            61,
+            61,
+            64,
+            63,
+            63,
+            61
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 7,
+      "pt_name": "bar_melody_chordburst_bounded17570998031757099811",
+      "N": 16,
+      "start_time": 163,
+      "samples": [
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/pitch",
+          "data": [
+            67,
+            69,
+            73,
+            73,
+            80,
+            76,
+            76,
+            71,
+            73,
+            73,
+            78,
+            76,
+            76,
+            69,
+            72,
+            74
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/time",
+          "data": [
+            163,
+            165,
+            166,
+            166,
+            166,
+            168,
+            169,
+            169,
+            172,
+            173,
+            175,
+            176,
+            176,
+            176,
+            178,
+            179
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/duration",
+          "data": [
+            6,
+            7,
+            7,
+            9,
+            8,
+            8,
+            9,
+            8,
+            9,
+            10,
+            10,
+            12,
+            11,
+            11,
+            12,
+            11
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/velocity",
+          "data": [
+            78,
+            80,
+            80,
+            83,
+            82,
+            82,
+            80,
+            82,
+            82,
+            85,
+            84,
+            84,
+            82,
+            84,
+            84,
+            87
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 8,
+      "pt_name": "bar_melody_chordburst_bounded17570998031757099811",
+      "N": 6,
+      "start_time": 179,
+      "samples": [
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/pitch",
+          "data": [
+            72,
+            74,
+            78,
+            78,
+            85,
+            81
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/time",
+          "data": [
+            179,
+            181,
+            182,
+            182,
+            182,
+            184
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/duration",
+          "data": [
+            6,
+            7,
+            7,
+            9,
+            8,
+            8
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/velocity",
+          "data": [
+            66,
+            68,
+            68,
+            71,
+            70,
+            70
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded17570998031757099811/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 9,
+      "pt_name": "bar_chord_sustain_bounded17570998211757099818",
+      "N": 12,
+      "start_time": 184,
+      "samples": [
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/pitch",
+          "data": [
+            56,
+            56,
+            60,
+            63,
+            56,
+            56,
+            61,
+            56,
+            56,
+            63,
+            56,
+            56
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/time",
+          "data": [
+            184,
+            184,
+            184,
+            184,
+            184,
+            186,
+            186,
+            186,
+            186,
+            186,
+            188,
+            188
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/duration",
+          "data": [
+            2,
+            4,
+            4,
+            4,
+            3,
+            4,
+            4,
+            3,
+            5,
+            5,
+            5,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/velocity",
+          "data": [
+            53,
+            56,
+            56,
+            54,
+            54,
+            56,
+            53,
+            56,
+            56,
+            54,
+            54,
+            56
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 10,
+      "pt_name": "bar_chord_sustain_bounded17570998211757099818",
+      "N": 18,
+      "start_time": 188,
+      "samples": [
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/pitch",
+          "data": [
+            69,
+            69,
+            73,
+            76,
+            69,
+            69,
+            74,
+            69,
+            69,
+            76,
+            69,
+            69,
+            74,
+            69,
+            69,
+            69,
+            73,
+            76
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/time",
+          "data": [
+            188,
+            188,
+            188,
+            188,
+            188,
+            190,
+            190,
+            190,
+            190,
+            190,
+            192,
+            192,
+            192,
+            192,
+            192,
+            194,
+            194,
+            194
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/duration",
+          "data": [
+            3,
+            5,
+            5,
+            5,
+            4,
+            5,
+            5,
+            4,
+            6,
+            6,
+            6,
+            5,
+            6,
+            6,
+            5,
+            7,
+            7,
+            7
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/velocity",
+          "data": [
+            77,
+            80,
+            80,
+            78,
+            78,
+            80,
+            77,
+            80,
+            80,
+            78,
+            78,
+            80,
+            77,
+            80,
+            80,
+            78,
+            78,
+            80
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 11,
+      "pt_name": "bar_chord_sustain_bounded17570998211757099818",
+      "N": 15,
+      "start_time": 194,
+      "samples": [
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/pitch",
+          "data": [
+            56,
+            56,
+            60,
+            63,
+            56,
+            56,
+            61,
+            56,
+            56,
+            63,
+            56,
+            56,
+            61,
+            56,
+            56
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/time",
+          "data": [
+            194,
+            194,
+            194,
+            194,
+            194,
+            196,
+            196,
+            196,
+            196,
+            196,
+            198,
+            198,
+            198,
+            198,
+            198
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/duration",
+          "data": [
+            3,
+            5,
+            5,
+            5,
+            4,
+            5,
+            5,
+            4,
+            6,
+            6,
+            6,
+            5,
+            6,
+            6,
+            5
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/velocity",
+          "data": [
+            64,
+            67,
+            67,
+            65,
+            65,
+            67,
+            64,
+            67,
+            67,
+            65,
+            65,
+            67,
+            64,
+            67,
+            67
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chord_sustain_bounded17570998211757099818/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 12,
+      "pt_name": "bar_melodyonly_bounded17570998311757099839",
+      "N": 3,
+      "start_time": 198,
+      "samples": [
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/pitch",
+          "data": [
+            61,
+            63,
+            68
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/time",
+          "data": [
+            198,
+            200,
+            201
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/duration",
+          "data": [
+            4,
+            6,
+            6
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/velocity",
+          "data": [
+            60,
+            62,
+            63
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/numerator",
+          "data": [
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/denominator",
+          "data": [
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 13,
+      "pt_name": "bar_melodyonly_bounded17570998311757099839",
+      "N": 18,
+      "start_time": 201,
+      "samples": [
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/pitch",
+          "data": [
+            52,
+            54,
+            59,
+            57,
+            58,
+            65,
+            60,
+            62,
+            61,
+            61,
+            63,
+            56,
+            57,
+            59,
+            64,
+            62,
+            63,
+            70
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/time",
+          "data": [
+            201,
+            203,
+            204,
+            207,
+            209,
+            210,
+            212,
+            214,
+            215,
+            218,
+            220,
+            221,
+            223,
+            225,
+            226,
+            229,
+            231,
+            232
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/duration",
+          "data": [
+            3,
+            5,
+            5,
+            6,
+            5,
+            6,
+            6,
+            5,
+            6,
+            8,
+            8,
+            9,
+            8,
+            9,
+            9,
+            8,
+            9,
+            11
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/velocity",
+          "data": [
+            66,
+            68,
+            69,
+            69,
+            71,
+            69,
+            70,
+            72,
+            73,
+            73,
+            75,
+            73,
+            74,
+            76,
+            77,
+            77,
+            79,
+            77
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 14,
+      "pt_name": "bar_melodyonly_bounded17570998311757099839",
+      "N": 8,
+      "start_time": 232,
+      "samples": [
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/pitch",
+          "data": [
+            55,
+            57,
+            62,
+            60,
+            61,
+            68,
+            63,
+            65
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/time",
+          "data": [
+            232,
+            234,
+            235,
+            238,
+            240,
+            241,
+            243,
+            245
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/duration",
+          "data": [
+            2,
+            4,
+            4,
+            5,
+            4,
+            5,
+            5,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/velocity",
+          "data": [
+            68,
+            70,
+            71,
+            71,
+            73,
+            71,
+            72,
+            74
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded17570998311757099839/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 15,
+      "pt_name": "bar_chordfield_prog_bounded17570998551757099851",
+      "N": 12,
+      "start_time": 245,
+      "samples": [
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/pitch",
+          "data": [
+            66,
+            66,
+            71,
+            74,
+            74,
+            81,
+            76,
+            76,
+            80,
+            73,
+            76,
+            73
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/time",
+          "data": [
+            245,
+            247,
+            247,
+            247,
+            248,
+            250,
+            250,
+            250,
+            253,
+            253,
+            254,
+            256
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/duration",
+          "data": [
+            2,
+            3,
+            3,
+            5,
+            4,
+            4,
+            5,
+            4,
+            4,
+            5,
+            6,
+            6
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/velocity",
+          "data": [
+            77,
+            81,
+            81,
+            83,
+            80,
+            80,
+            81,
+            79,
+            83,
+            83,
+            85,
+            82
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 16,
+      "pt_name": "bar_chordfield_prog_bounded17570998551757099851",
+      "N": 9,
+      "start_time": 257,
+      "samples": [
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/pitch",
+          "data": [
+            71,
+            71,
+            76,
+            79,
+            79,
+            86,
+            81,
+            81,
+            85
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/time",
+          "data": [
+            257,
+            259,
+            259,
+            259,
+            260,
+            262,
+            262,
+            262,
+            265
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/duration",
+          "data": [
+            6,
+            7,
+            7,
+            9,
+            8,
+            8,
+            9,
+            8,
+            8
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/velocity",
+          "data": [
+            66,
+            70,
+            70,
+            72,
+            69,
+            69,
+            70,
+            68,
+            72
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 17,
+      "pt_name": "bar_chordfield_prog_bounded17570998551757099851",
+      "N": 20,
+      "start_time": 265,
+      "samples": [
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/pitch",
+          "data": [
+            55,
+            55,
+            60,
+            63,
+            63,
+            70,
+            65,
+            65,
+            69,
+            62,
+            65,
+            62,
+            62,
+            58,
+            63,
+            58,
+            58,
+            58,
+            63,
+            66
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/time",
+          "data": [
+            265,
+            267,
+            267,
+            267,
+            268,
+            270,
+            270,
+            270,
+            273,
+            273,
+            274,
+            276,
+            276,
+            276,
+            277,
+            279,
+            279,
+            279,
+            282,
+            282
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/duration",
+          "data": [
+            3,
+            4,
+            4,
+            6,
+            5,
+            5,
+            6,
+            5,
+            5,
+            6,
+            7,
+            7,
+            9,
+            8,
+            8,
+            9,
+            8,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/velocity",
+          "data": [
+            56,
+            60,
+            60,
+            62,
+            59,
+            59,
+            60,
+            58,
+            62,
+            62,
+            64,
+            61,
+            61,
+            62,
+            60,
+            64,
+            64,
+            66,
+            63,
+            63
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded17570998551757099851/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 18,
+      "pt_name": "bar_chordfield_prog_burst_bounded17570998661757099857",
+      "N": 24,
+      "start_time": 282,
+      "samples": [
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/pitch",
+          "data": [
+            63,
+            63,
+            67,
+            70,
+            70,
+            77,
+            70,
+            70,
+            75,
+            70,
+            70,
+            77,
+            70,
+            70,
+            75,
+            70,
+            70,
+            74,
+            77,
+            77,
+            84,
+            77,
+            77,
+            82
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/time",
+          "data": [
+            282,
+            284,
+            284,
+            284,
+            285,
+            288,
+            288,
+            288,
+            290,
+            291,
+            293,
+            293,
+            293,
+            294,
+            297,
+            297,
+            297,
+            299,
+            300,
+            302,
+            302,
+            302,
+            303,
+            306
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/duration",
+          "data": [
+            3,
+            5,
+            5,
+            6,
+            5,
+            5,
+            6,
+            5,
+            5,
+            6,
+            8,
+            8,
+            9,
+            8,
+            8,
+            9,
+            8,
+            8,
+            9,
+            11,
+            11,
+            12,
+            11,
+            11
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/velocity",
+          "data": [
+            57,
+            60,
+            60,
+            62,
+            60,
+            60,
+            61,
+            60,
+            63,
+            63,
+            65,
+            63,
+            63,
+            64,
+            63,
+            66,
+            66,
+            68,
+            66,
+            66,
+            67,
+            66,
+            69,
+            69
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 19,
+      "pt_name": "bar_chordfield_prog_burst_bounded17570998661757099857",
+      "N": 10,
+      "start_time": 306,
+      "samples": [
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/pitch",
+          "data": [
+            52,
+            52,
+            56,
+            59,
+            59,
+            66,
+            59,
+            59,
+            64,
+            59
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/time",
+          "data": [
+            306,
+            308,
+            308,
+            308,
+            309,
+            312,
+            312,
+            312,
+            314,
+            315
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/duration",
+          "data": [
+            4,
+            6,
+            6,
+            7,
+            6,
+            6,
+            7,
+            6,
+            6,
+            7
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/velocity",
+          "data": [
+            71,
+            74,
+            74,
+            76,
+            74,
+            74,
+            75,
+            74,
+            77,
+            77
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 20,
+      "pt_name": "bar_chordfield_prog_burst_bounded17570998661757099857",
+      "N": 21,
+      "start_time": 315,
+      "samples": [
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/pitch",
+          "data": [
+            65,
+            65,
+            69,
+            72,
+            72,
+            79,
+            72,
+            72,
+            77,
+            72,
+            72,
+            79,
+            72,
+            72,
+            77,
+            72,
+            72,
+            76,
+            79,
+            79,
+            86
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/time",
+          "data": [
+            315,
+            317,
+            317,
+            317,
+            318,
+            321,
+            321,
+            321,
+            323,
+            324,
+            326,
+            326,
+            326,
+            327,
+            330,
+            330,
+            330,
+            332,
+            333,
+            335,
+            335
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/duration",
+          "data": [
+            6,
+            8,
+            8,
+            9,
+            8,
+            8,
+            9,
+            8,
+            8,
+            9,
+            11,
+            11,
+            12,
+            11,
+            11,
+            12,
+            11,
+            11,
+            12,
+            14,
+            14
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/velocity",
+          "data": [
+            54,
+            57,
+            57,
+            59,
+            57,
+            57,
+            58,
+            57,
+            60,
+            60,
+            62,
+            60,
+            60,
+            61,
+            60,
+            63,
+            63,
+            65,
+            63,
+            63,
+            64
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_burst_bounded17570998661757099857/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 21,
+      "pt_name": "bar_melody_chordburst_bounded_alt17570999061757099864",
+      "N": 3,
+      "start_time": 335,
+      "samples": [
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/pitch",
+          "data": [
+            54,
+            56,
+            61
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/time",
+          "data": [
+            335,
+            337,
+            338
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/duration",
+          "data": [
+            6,
+            8,
+            8
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/velocity",
+          "data": [
+            76,
+            78,
+            78
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/numerator",
+          "data": [
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/denominator",
+          "data": [
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 22,
+      "pt_name": "bar_melody_chordburst_bounded_alt17570999061757099864",
+      "N": 18,
+      "start_time": 338,
+      "samples": [
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/pitch",
+          "data": [
+            59,
+            61,
+            66,
+            64,
+            64,
+            71,
+            66,
+            66,
+            70,
+            66,
+            66,
+            71,
+            64,
+            67,
+            69,
+            74,
+            72,
+            72
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/time",
+          "data": [
+            338,
+            340,
+            341,
+            341,
+            341,
+            343,
+            344,
+            344,
+            347,
+            348,
+            350,
+            351,
+            351,
+            351,
+            353,
+            354,
+            354,
+            357
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/duration",
+          "data": [
+            2,
+            4,
+            4,
+            5,
+            4,
+            4,
+            5,
+            4,
+            5,
+            7,
+            7,
+            8,
+            7,
+            7,
+            8,
+            7,
+            8,
+            10
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/velocity",
+          "data": [
+            80,
+            82,
+            82,
+            85,
+            84,
+            84,
+            82,
+            84,
+            84,
+            87,
+            86,
+            86,
+            84,
+            86,
+            86,
+            89,
+            88,
+            88
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 23,
+      "pt_name": "bar_melody_chordburst_bounded_alt17570999061757099864",
+      "N": 23,
+      "start_time": 357,
+      "samples": [
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/pitch",
+          "data": [
+            58,
+            60,
+            65,
+            63,
+            63,
+            70,
+            65,
+            65,
+            69,
+            65,
+            65,
+            70,
+            63,
+            66,
+            68,
+            73,
+            71,
+            71,
+            78,
+            73,
+            73,
+            77,
+            73
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/time",
+          "data": [
+            357,
+            359,
+            360,
+            360,
+            360,
+            362,
+            363,
+            363,
+            366,
+            367,
+            369,
+            370,
+            370,
+            370,
+            372,
+            373,
+            373,
+            376,
+            377,
+            379,
+            380,
+            380,
+            380
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/duration",
+          "data": [
+            6,
+            8,
+            8,
+            9,
+            8,
+            8,
+            9,
+            8,
+            9,
+            11,
+            11,
+            12,
+            11,
+            11,
+            12,
+            11,
+            12,
+            14,
+            14,
+            15,
+            14,
+            14,
+            15
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/velocity",
+          "data": [
+            71,
+            73,
+            73,
+            76,
+            75,
+            75,
+            73,
+            75,
+            75,
+            78,
+            77,
+            77,
+            75,
+            77,
+            77,
+            80,
+            79,
+            79,
+            77,
+            79,
+            79,
+            82,
+            81
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melody_chordburst_bounded_alt17570999061757099864/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 24,
+      "pt_name": "bar_chordfield_prog_bounded_alt175709991217570998721757099871",
+      "N": 6,
+      "start_time": 380,
+      "samples": [
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/pitch",
+          "data": [
+            60,
+            60,
+            63,
+            68,
+            68,
+            75
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/time",
+          "data": [
+            380,
+            382,
+            382,
+            382,
+            383,
+            385
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/duration",
+          "data": [
+            4,
+            6,
+            6,
+            7,
+            6,
+            6
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/velocity",
+          "data": [
+            64,
+            68,
+            68,
+            70,
+            67,
+            67
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 25,
+      "pt_name": "bar_chordfield_prog_bounded_alt175709991217570998721757099871",
+      "N": 4,
+      "start_time": 385,
+      "samples": [
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/pitch",
+          "data": [
+            71,
+            71,
+            74,
+            79
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/time",
+          "data": [
+            385,
+            387,
+            387,
+            387
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/duration",
+          "data": [
+            3,
+            5,
+            5,
+            6
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/velocity",
+          "data": [
+            55,
+            59,
+            59,
+            61
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 26,
+      "pt_name": "bar_chordfield_prog_bounded_alt175709991217570998721757099871",
+      "N": 9,
+      "start_time": 387,
+      "samples": [
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/pitch",
+          "data": [
+            54,
+            54,
+            57,
+            62,
+            62,
+            69,
+            62,
+            62,
+            66
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/time",
+          "data": [
+            387,
+            389,
+            389,
+            389,
+            390,
+            392,
+            392,
+            392,
+            395
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/duration",
+          "data": [
+            6,
+            8,
+            8,
+            9,
+            8,
+            8,
+            9,
+            8,
+            8
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/velocity",
+          "data": [
+            74,
+            78,
+            78,
+            80,
+            77,
+            77,
+            78,
+            76,
+            80
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_chordfield_prog_bounded_alt175709991217570998721757099871/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 27,
+      "pt_name": "bar_melodyonly_bounded_new11757099877",
+      "N": 8,
+      "start_time": 395,
+      "samples": [
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/pitch",
+          "data": [
+            57,
+            60,
+            62,
+            60,
+            67,
+            62,
+            64,
+            69
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/time",
+          "data": [
+            395,
+            397,
+            398,
+            400,
+            403,
+            404,
+            406,
+            408
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/duration",
+          "data": [
+            6,
+            7,
+            7,
+            9,
+            8,
+            8,
+            9,
+            8
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/velocity",
+          "data": [
+            67,
+            69,
+            70,
+            70,
+            72,
+            70,
+            71,
+            73
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 28,
+      "pt_name": "bar_melodyonly_bounded_new11757099877",
+      "N": 18,
+      "start_time": 408,
+      "samples": [
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/pitch",
+          "data": [
+            60,
+            63,
+            65,
+            63,
+            70,
+            65,
+            67,
+            72,
+            65,
+            66,
+            68,
+            67,
+            67,
+            70,
+            72,
+            70,
+            77,
+            72
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/time",
+          "data": [
+            408,
+            410,
+            411,
+            413,
+            416,
+            417,
+            419,
+            421,
+            422,
+            424,
+            427,
+            428,
+            430,
+            432,
+            433,
+            435,
+            438,
+            439
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/duration",
+          "data": [
+            6,
+            7,
+            7,
+            9,
+            8,
+            8,
+            9,
+            8,
+            9,
+            10,
+            10,
+            12,
+            11,
+            11,
+            12,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/velocity",
+          "data": [
+            59,
+            61,
+            62,
+            62,
+            64,
+            62,
+            63,
+            65,
+            66,
+            66,
+            68,
+            66,
+            67,
+            69,
+            70,
+            70,
+            72,
+            70
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "run_id": 29,
+      "pt_name": "bar_melodyonly_bounded_new11757099877",
+      "N": 19,
+      "start_time": 439,
+      "samples": [
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/pitch",
+          "data": [
+            59,
+            62,
+            64,
+            62,
+            69,
+            64,
+            66,
+            71,
+            64,
+            65,
+            67,
+            66,
+            66,
+            69,
+            71,
+            69,
+            76,
+            71,
+            73
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/time",
+          "data": [
+            439,
+            441,
+            442,
+            444,
+            447,
+            448,
+            450,
+            452,
+            453,
+            455,
+            458,
+            459,
+            461,
+            463,
+            464,
+            466,
+            469,
+            470,
+            472
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/duration",
+          "data": [
+            6,
+            7,
+            7,
+            9,
+            8,
+            8,
+            9,
+            8,
+            9,
+            10,
+            10,
+            12,
+            11,
+            11,
+            12,
+            11,
+            12,
+            13,
+            13
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/velocity",
+          "data": [
+            71,
+            73,
+            74,
+            74,
+            76,
+            74,
+            75,
+            77,
+            78,
+            78,
+            80,
+            78,
+            79,
+            81,
+            82,
+            82,
+            84,
+            82,
+            83
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/numerator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "feature_path": "/bar_melodyonly_bounded_new11757099877/denominator",
+          "data": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    }
+  ]
+}
