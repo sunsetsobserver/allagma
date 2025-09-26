@@ -259,8 +259,8 @@ def main():
             "- Use ONLY transformations in {add, subtract}, each with exactly one unsigned integer arg.\n"
             "- Prefer small args (0–127). Avoid underflow.\n"
             "- Names are lowercase; feature_name must be resolvable ('pitch','time','duration','velocity','numerator','denominator').\n\n"
-            "– PIANO RANGE: Design pitch so that, for any starting seed in [48..72], sampling up to 64 steps stays within MIDI [36..96] (C2–C7).\n"
-            "– SEED ASSUMPTION: Composer will seed pitch in [48..72]; design cycles to remain within [36..96] for up to 64 steps from any seed in that range."
+            "– PIANO RANGE: Design pitch so that, for any starting seed in [48..72], sampling up to 64 steps stays within MIDI [43..96] (C2–C7).\n"
+            "– SEED ASSUMPTION: Composer will seed pitch in [48..72]; design cycles to remain within [43..96] for up to 64 steps from any seed in that range."
 
             "TEXTURE (CHOOSE ONE, THEN ADHERE STRICTLY)\n"
             "- Silently choose EXACTLY ONE texture mode (do not output which), then generate the PT to match it tightly.\n"
@@ -295,7 +295,7 @@ def main():
 
             "PITCH (PIANO-SAFE COHERENCE + CIRCULARITY)\n"
             "- Use 8–16 transformations.\n"
-            "- PIANO RANGE GUARANTEE: When sampled for up to 64 steps with ANY starting seed in [48..72], all resulting pitches must remain within [36..96] (C2–C7).\n"
+            "- PIANO RANGE GUARANTEE: When sampled for up to 64 steps with ANY starting seed in [56..72], all resulting pitches must remain within [46..96] (C2–C7).\n"
             "- NET DRIFT CONTROL: Make the net sum over one cycle near zero (target in [−4..+4]) so long runs do not drift out of range.\n"
             "- INTERVAL VARIETY: Include AT LEAST TWO larger intervals from {5,7,12} (P4/P5/octave) at musically meaningful points, BUT pair them with corrective moves so the range guarantee holds (e.g., later subtract 5/7/12 or distribute smaller opposite steps).\n"
             "- HOLDS: You MAY use 'add 0' to sustain chord tones while time advances.\n"
