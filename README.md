@@ -1,4 +1,14 @@
-# allagma
+```text
+ ______   ___    ___
+/\  _  \ /\_ \  /\_ \
+\ \ \L\ \\//\ \ \//\ \      __       __     ___ ___      __
+ \ \  __ \ \ \ \  \ \ \   /'__`\   /'_ `\ /' __` __`\  /'__`\
+  \ \ \/\ \ \_\ \_ \_\ \_/\ \L\.\_/\ \L\ \/\ \/\ \/\ \/\ \L\.\_
+   \ \_\ \_\/\____\/\____\ \__/.\_\ \____ \ \_\ \_\ \_\ \__/.\_\
+    \/_/\/_/\/____/\/____/\/__/\/_/\/___L\ \/_/\/_/\/_/\/__/\/_/
+                                     /\____/
+                                     \_/__/
+```
 
 `allagma` is both:
 
@@ -6,23 +16,25 @@
 2. A standalone software tool for generating new compositions with DCN + LLMs.
 
 Demo:
+
 - https://youtu.be/VuV2ItarKSc?si=ptdVhpP4ne3u2HfK
 
 ## What This Repo Does
 
 The generator:
 
-1. Authenticates to a DCN server.
-2. Creates a vocabulary of musical PT Features (via OpenAI).
-3. Wraps each Feature into a Particle.
-4. Executes Particles (`/execute`) to get scalar streams (`time`, `duration`, `pitch`, etc.).
-5. Schedules runs into one timeline.
-6. Writes output JSON and auto-generates a MIDI file.
+1. Authenticates to a Decentralised Creative Network server.
+2. Creates a vocabulary of musical Particles on the Decentralised Creative Network (via OpenAI agent).
+3. Executes Particles (`/execute`) to get scalar streams (`time`, `duration`, `pitch`, etc.).
+4. Schedules runs into one timeline.
+5. Writes output JSON and auto-generates a MIDI file.
 
 Main script:
+
 - `generator.py`
 
 MIDI tool:
+
 - `tools/pt2midi.js`
 
 ## Requirements
