@@ -4,6 +4,9 @@ working_files/
 __pycache__/
 *.pyc
 
+# Node deps
+node_modules/
+
 # Local env/config
 .env
 .env.*
